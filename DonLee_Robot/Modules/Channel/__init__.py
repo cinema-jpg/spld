@@ -1,2 +1,2 @@
-DEPLOY = "💡 DEPLOY NOW 💡"
-HEROKU = "https://youtu.be/lI71HsWzTKE"
+DEPLOY = "💡 JOIN 💡"
+HEROKU = "https://t.me/CINEMAZIP"
