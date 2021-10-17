@@ -36,10 +36,10 @@ Rating Not Available</codd>
             
    ☞ <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
 
-Maintained By @Mo_Tech_YT"""
+Maintained By @im_godgroot"""
     
     ABOUT_TEXT = """
-<b>➥ 🤖Bot</b> : <b>Im Hulk </b>
+<b>➥ 🤖Bot</b> : <b>Im Hulk 🧟‍♂️ </b>
     
 <b>➥ 😎Creator</b> : <b>@im_godgroot</b> 
 
